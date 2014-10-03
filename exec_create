@@ -1,2 +1,2 @@
 #!/bin/bash
-psql superheroes -f ~/databases/superheroes/create_schema.sql
+psql superheroes -f create_schema.sql

@@ -1,2 +1,2 @@
 #!/bin/bash
-psql superheroes -f ~/databases/superheroes/insert_superheroes.sql
+psql superheroes -f insert_superheroes.sql
